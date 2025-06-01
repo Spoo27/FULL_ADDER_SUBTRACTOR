@@ -1,4 +1,7 @@
-# FULL_ADDER_SUBTRACTOR
+## Spoorthi
+## 212224230271
+
+# EX NO 3:- FULL ADDER SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
